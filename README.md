@@ -1,4 +1,4 @@
-<img  src="http://github.com/intshawrov/intshawrov/blob/main/banner.png"> 
+<img src="https://raw.githubusercontent.com/intshawrov/intshawrov/main/banner.png" alt="Banner" width="100%">
 
 <h1 align="center">Hi, I'm Shawrov Islam</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
