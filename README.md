@@ -3,13 +3,13 @@
 <h1 align="center">Hi, I'm Shawrov Islam</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
-- I’m currently learning JavsScript **(react)**
+- Currently learning: Advanced JavaScript & React.js
 
 - How to reach me **mirshawrovislam@gmail.com**
- 
-- I’m currently learning **React.js** and open to collaborating on **Frontend** projects.
 
-- Ask me about **JavaScript**, **TypeScript**, and efficient state management in React.
+- Looking to collaborate on: Frontend development projects
+
+- Ask me about: JavaScript, TypeScript, and state management in React
 
 
 
