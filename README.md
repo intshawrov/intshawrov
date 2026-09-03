@@ -58,10 +58,6 @@
 
 <p align="center">
 
-  <!-- Portfolio -->
-  <a href="https://intshawrov.netlify.app/" target="_blank">
-    <img src="https://img.icons8.com/?size=100&id=zrTptiWiMTtu&format=png&color" alt="Portfolio" width="40" style="padding:5px" />
-  </a>
 
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/intshawrov" target="_blank">
@@ -69,7 +65,7 @@
   </a>
 
   <!-- Gmail -->
-  <a href="mailto:rakib.wdev@gmail.com">
+  <a href="mailto:mirshawrovislam@gmail.com">
     <img src="https://img.icons8.com/color/48/gmail-new.png" alt="Gmail" width="40"style="padding:5px" />
   </a>
 
