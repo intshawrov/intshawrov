@@ -3,9 +3,9 @@
 <h1 align="center">Hi, I'm Shawrov Islam</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
-- 🌱 I’m currently learning JavsScript **(react)**
+- I’m currently learning JavsScript **(react)**
 
-- 📫 How to reach me **mirshawrovislam@gmail.com**
+- How to reach me **mirshawrovislam@gmail.com**
  
 - I’m currently learning **React.js** and open to collaborating on **Frontend** projects.
 
