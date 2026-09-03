@@ -79,7 +79,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00BFFF&center=true&vCenter=true&width=750&lines=Building+Next-Gen+Web+Solutions+with+React;Specializing+in+Laravel+and+WordPress+Ecosystems;Let%27s+Connect+and+Collaborate!" alt="Building Next-Gen Web Solutions" width="100%"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00BFFF&center=true&vCenter=true&width=750&lines=I'm+a+Frontend+Developer;Learning+React.js" alt="I'm a Frontend Developer" width="100%"/>
 </p>
 
 <p align="center">
